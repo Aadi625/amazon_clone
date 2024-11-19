@@ -1,4 +1,3 @@
 # amazon_clone project
 
-this is a frontend project which consists of html and css .
-these are used to make a clone of amazon site front page.
+This is a frontend project based on cloning a site using html and css.Here, we have tried to clone the main page of amazon by various functions offered by css.
